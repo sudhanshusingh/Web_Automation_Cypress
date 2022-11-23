@@ -1,0 +1,1 @@
+clean:rm -fr ./cypress/screenshots/*
